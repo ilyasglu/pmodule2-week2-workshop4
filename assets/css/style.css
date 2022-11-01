@@ -1,0 +1,36 @@
+#container{
+    width: 935px;
+    margin:0 auto;
+}
+div{
+    border:1px solid;
+    margin: 10px;
+    padding: 10px;
+}
+#header{
+    width: 890px;
+   height: 100px;
+
+}
+#sidebar{
+    width: 180px;
+    height: 500px;
+    float: left;
+   
+}
+#content{
+    height: 500px;
+    width: 670px;
+    float: left;
+    
+}
+#footer{
+    width: 893px;
+    height: 50px;
+    clear: left;
+    
+} 
+#header img {
+    width: 890px;
+    height: 100px;
+}
